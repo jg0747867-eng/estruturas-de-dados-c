@@ -1,0 +1,7 @@
+bin/
+obj/
+*.exe
+*.o
+*.depend
+*.layout
+NomeRG100M.txt
